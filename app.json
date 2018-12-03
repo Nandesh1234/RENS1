@@ -1,0 +1,25 @@
+{
+  "id": "bff6c800-6fae-47bd-9d83-1b5dd5cc3c5e",
+  "name": "Service Mgt. Process",
+  "publisher": "Inecta LLC",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.5",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "test": "13.0.0.0",
+  "idRange": {
+    "from": 50000,
+    "to": 50020
+  },
+  "runtime": "2.0",
+  "showMyCode": true
+}

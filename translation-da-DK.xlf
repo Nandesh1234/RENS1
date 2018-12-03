@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="da-DK" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Report 3703526328 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales - Invoice</source>
+          <target>Salg - faktura</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - ReportDataItem 337774656 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Sales Invoice</source>
+          <target>Bogf¢rt salgsfaktura</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - ReportDataItem DataItem5581 - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Indstillinger</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - Control 2578066365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Copies</source>
+          <target>Antal kopier</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - Control NoOfCopies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - Control 2578066365 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how many copies of the document to print.</source>
+          <target>Angiver, hvor mange kopier af bilaget der udskrives.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - Control NoOfCopies - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - Control 316520822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Internal Information</source>
+          <target>Vis interne oplysninger</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - Control ShowInternalInfo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - Control 316520822 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the printed report to show information that is only for internal use.</source>
+          <target>Angiver, om den udskrevne rapport skal indeholde oplysninger, der kun er til intern brug.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - Control ShowInternalInfo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - Control 816368762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log Interaction</source>
+          <target>Logf¢r interaktion</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - Control LogInteraction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - Control 816368762 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies that interactions with the contact are logged.</source>
+          <target>Angiver, at interaktioner med kontakten er logf¢rt.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - Control LogInteraction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - Control 1885540899 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Assembly Components</source>
+          <target>Vis montagekomponenter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - Control DisplayAsmInformation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - Control 1885540899 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the report to include information about components that were used in linked assembly orders that supplied the item(s) being sold.</source>
+          <target>Angiver, om rapporten skal omfatte oplysninger om komponenter, der blev brugt i sammenkædede montageordrer, hvori den eller de solgte varer indgik.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - Control DisplayAsmInformation - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - Control 215716959 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Additional Fee Note</source>
+          <target>Vis bemærkning om opkrævningsgebyr</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - Control DisplayAdditionalFeeNote - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - Control 215716959 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies that any notes about additional fees are included on the document.</source>
+          <target>Angiver, at alle noter om yderligere gebyrer er inkluderet i dokumentet.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - Control DisplayAdditionalFeeNote - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales - Invoice %1</source>
+          <target>Salg - faktura %1</target>
+          <note from="Developer" annotates="general" priority="2">, Comment='%1 = Document No.'</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 4022464961" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page %1 of %2</source>
+          <target>Side %1 af %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType PageCaptionCap</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount Specification in </source>
+          <target>Momsbel¢bsspecifikation i </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local Currency</source>
+          <target>Lokal valuta</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange rate: %1/%2</source>
+          <target>Valutakurs: %1/%2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales - Prepayment Invoice %1</source>
+          <target>Salg - forudbetalingsfaktura %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 2826867220" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone No.</source>
+          <target>Telefon</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType CompanyInfoPhoneNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 3448977668" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Reg. No.</source>
+          <target>SE/CVR-nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType CompanyInfoVATRegNoCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 1454106313" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Giro No.</source>
+          <target>Gironr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType CompanyInfoGiroNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 3907868757" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank</source>
+          <target>Bank</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType CompanyInfoBankNameCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 175863088" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account No.</source>
+          <target>Kontonr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType CompanyInfoBankAccNoCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 2845404719" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Due Date</source>
+          <target>Forfaldsdato</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType SalesInvDueDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 3319152384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice No.</source>
+          <target>Fakturanr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType InvNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 353376914" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Bogf¢ringsdato</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType SalesInvPostingDateCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 4272535733" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Header Dimensions</source>
+          <target>Dimensioner - hoved</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType HeaderDimCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 3659909257" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price</source>
+          <target>Enhedspris</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType UnitPriceCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 1817628762" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount %</source>
+          <target>Rabatpct.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType SalesInvLineDiscCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 3285233284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Bel¢b</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType AmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 3365690297" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Clause</source>
+          <target>Momsklausul</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType VATClausesCap</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 3543880195" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Shipment Date</source>
+          <target>Bogf¢rt leverancedato</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType PostedShipmentDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 3126303398" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subtotal</source>
+          <target>Subtotal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType SubtotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 3861931375" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Discount on VAT</source>
+          <target>Moms ved kontantrabat</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType LineAmtAfterInvDiscCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 2047603120" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment</source>
+          <target>Leverance</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType ShipmentCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 960460070" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Dimensions</source>
+          <target>Linjedimensioner</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType LineDimCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 2485276663" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount Specification</source>
+          <target>Momsbel¢bspecifikation</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType VATAmtSpecificationCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 1378777375" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Base Amount</source>
+          <target>Grundbel¢b for fakturarabat</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType InvDiscBaseAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 3548486750" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Amount</source>
+          <target>Linjebel¢b</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType LineAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 1637538090" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Address</source>
+          <target>Leveringsadresse</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType ShiptoAddrCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 3573196756" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Amount</source>
+          <target>Fakturarabatbel¢b</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType InvDiscountAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 2728513993" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <target>Bilagsdato</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType DocumentDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 3169568710" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Terms</source>
+          <target>Betalingsbetingelser</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType PaymentTermsDescCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 473417871" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Method</source>
+          <target>Leveringsform</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType ShptMethodDescCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 3884610169" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT %</source>
+          <target>Momspct.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType VATPercentageCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 1583171122" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <target>I alt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType TotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 1303359398" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Base</source>
+          <target>Momsgrundlag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType VATBaseCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 4049601073" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount</source>
+          <target>Momsbel¢b</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType VATAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 2012124496" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Identifier</source>
+          <target>Moms-id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType VATIdentifierCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 2862688884" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Home Page</source>
+          <target>Hjemmeside</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType HomePageCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3703526328 - NamedType 595034892" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Email</source>
+          <target>Mail</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice - Renseriet - NamedType EMailCaptionLbl</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
